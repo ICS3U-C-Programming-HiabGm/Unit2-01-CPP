@@ -1,1 +1,1 @@
-# Unit2-01-CPP
+[![Mr Coxall's Super Linter](https://github.com/git@github.com:ICS3U-C-Programming-HiabGm/Unit2-01-CPP.git/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/git@github.com:ICS3U-C-Programming-HiabGm/Unit2-01-CPP.git/actions/) 
